@@ -1,0 +1,2 @@
+Hello, my name is Kenny Nguyen from the CSC 133-03 and this is my Assignment #1. To test this assignment, the lab number I used was Bravo Plus - RVR1013 and the name of the
+specific machine was ECS-AHSOKA.saclink.csus.edu. Thank you have a nice day.
